@@ -34,8 +34,6 @@
     border: 1.5px solid #ffffff;
 }
 
-/** Box2 **/
-
 .add-first {
     color: #cccccc;
     font-size: 0.8rem;
@@ -53,12 +51,9 @@
     align-items: center;
 }
 
-/** Box3 **/
-
 .nav-search{
     display: flex;
     justify-content: space-evenly;
-    /* background-color: pink; */
     width: 620px;
     height: 40px;
     border-radius: 4px;
@@ -66,7 +61,6 @@
 
 .search-select {
     background-color: #f3f3f3;
-    /* color: #000000; */
     width: 50px;
     text-align: center;
     border-top-left-radius: 4px;
@@ -96,8 +90,6 @@
     border: 2.5px solid orange;
 }
 
-/** Box4 **/
-
 span{
     font-size: 0.7rem;
 }
@@ -106,8 +98,6 @@ span{
     font-size: 0.85rem;
     font-weight: 700;
 }
-
-/** Box5 **/
 
 .nav-cart i {
     font-size: 25px;
@@ -142,8 +132,6 @@ span{
     font-weight: 700;
 }
 
-/*hero section*/
-
 .hero-section {
     background-image: url("hero_image.jpg");
     background-size: cover;
@@ -168,8 +156,6 @@ span{
     color: #007185;
     text-decoration: none;
 }
-
-/* shop section*/
 
 .shop-section {
     display: flex;
@@ -201,8 +187,6 @@ span{
 .box-content p {
     color: #007185;
 }
-
-/* footer */
 
 footer {
     margin-top: 15px;
